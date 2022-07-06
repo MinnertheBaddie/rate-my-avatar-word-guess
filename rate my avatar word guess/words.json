@@ -58,8 +58,8 @@
 			"Windows",
 			"Linux",
 			"MacOS",
-			"QEMU",
-			"KVM",
+			"JavaScript",
+			"Python",
 			"Software",
 			"Hardware",
 			"Firmware",
@@ -81,7 +81,7 @@
 			"CD",
 			"HDMI",
 			"AV",
-			"IoT",
+			"Lua",
 			"Driver"
 		]
 	},
