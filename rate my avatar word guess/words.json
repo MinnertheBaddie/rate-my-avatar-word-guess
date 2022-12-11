@@ -19,6 +19,31 @@
 			"Castle Panic"
 		]
 	},
+	"subjects": {
+		"name": "School Subjects",
+		"words": [
+			"Mathematics",
+			"Lithuania",
+			"Russian",
+			"Art",
+			"Chemistry",
+			"Physics",
+			"Geography",
+			"Music",
+			"Swimming",
+			"English",
+			"Woodshop",
+			"Biology",
+			"History",
+			"Economics",
+			"Gymnastics",
+			"Technology",
+			"Algebra",
+			"Health",
+			"Human Safety",
+			"German"
+		]
+	},
 	"instruments": {
 		"name": "Instruments",
 		"words": [
