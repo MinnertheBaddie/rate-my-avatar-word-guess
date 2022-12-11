@@ -217,7 +217,9 @@
 			"Foggy",
 			"Rainbow",
 			"Snowy",
-			"Icy"
+			"Icy",
+			"Windy",
+			"Cloudy"
 		]
 	},
 	"oceans": {
@@ -346,7 +348,8 @@
 			"Koala",
 			"Meerkat",
 			"Owl",
-			"Ostrich"
+			"Ostrich",
+			"Elephant"
 		]
 	},
 	"movies": {
@@ -369,8 +372,7 @@
 			"Doctor Strange",
 			"Thor",
 			"Shrek",
-			"Cars",
-			"Ice Age"
+			"Cars"
 		]
 	}
 }
