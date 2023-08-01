@@ -16,7 +16,9 @@
 			"Labyrinth",
 			"Sushi Go",
 			"Ticket To Ride",
-			"Castle Panic"
+			"Castle Panic",
+			"Annoying Kittens",
+			"Hot Potato"
 		]
 	},
 	"subjects": {
@@ -24,7 +26,7 @@
 		"words": [
 			"Mathematics",
 			"Lithuania",
-			"Russian",
+			"Russia",
 			"Art",
 			"Chemistry",
 			"Physics",
@@ -98,13 +100,22 @@
 			"SSD",
 			"HDD",
 			"Floppy Drive",
-			"UNIX",
+			"Bluetooth",
 			"DVD",
 			"CD",
 			"HDMI",
 			"AV",
 			"Printing",
-			"Driver"
+			"Driver",
+			"Encryption",
+			"Virtual Reality",
+			"Augmented Reality",
+			"Artificial Intelligence",
+			"Java",
+			"CSS",
+			"HTML",
+			"GPS",
+			"QR Code"			
 		]
 	},
 	"continents": {
@@ -156,7 +167,20 @@
 			"Splitgate",
 			"Spacewar",
 			"Sonic The Hedgehog",
-			"Genshin Impact"
+			"Genshin Impact",
+			"Resident Evil",
+			"Dark Souls",
+			"Overwatch",
+			"Valorant",
+			"League of Legends",
+			"Rocket League",
+			"Minecraft Dungeons",
+			"Minecraft Legends",
+			"Splatoon",
+			"The Last Of Us",
+			"Stardew Valley",
+			"BorderLands",
+			"Team Fortress"
 		]
 	},
 	"shapes": {
@@ -204,7 +228,8 @@
 			"Stonehenge",
 			"Berlin wall",
 			"The Forbidden City",
-			"Mount Everest"
+			"Mount Everest",
+			"Golden Gate Bridge"
 		]
 	},
 	"space": {
@@ -230,7 +255,13 @@
 			"SpaceX",
 			"Spacetime",
 			"Asteroid",
-			"Black hole"
+			"Black hole",
+			"Satellite",
+			"Universe',
+			"Solar",
+			"Moon",
+			"Nebula",
+			"Meteor"
 		]
 	},
 	"weather": {
@@ -308,7 +339,7 @@
 		]
 	},
 	"elements": {
-		"name": "Periodic Table (unfinished)",
+		"name": "Periodic Table (simplified)",
 		"words": [
 			"Hydrogen",
 			"Lithium",
@@ -374,7 +405,16 @@
 			"Meerkat",
 			"Owl",
 			"Ostrich",
-			"Elephant"
+			"Elephant",
+			"Capybara",
+			"Panda",
+			"Horse",
+			"Zebra",
+			"Snake",
+			"Dolphin",
+			"Tiger",
+			"Lion",
+			"Gorilla"
 		]
 	},
 	"movies": {
