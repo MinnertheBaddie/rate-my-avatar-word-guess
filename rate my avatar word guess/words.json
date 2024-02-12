@@ -46,6 +46,40 @@
 			"German"
 		]
 	},
+	"sports": {
+		"name": "Sports",
+		"words": [
+			"Basketball",
+			"Football",
+			"Badminton",
+			"Archery",
+			"Horse Racing",
+			"Tennis",
+			"Table Tennis",
+			"Volleyball",
+			"Golf",
+			"Hockey",
+			"Ice Hockey",
+			"Bowling",
+			"Boxing",
+			"Cricket",
+			"Cycling",
+			"Darts",
+			"Diving",
+			"Fencing",
+			"Handball",
+			"Karate",
+			"Martial Arts",
+			"Rugby",
+			"Sailing",
+			"Surfing",
+			"Swimming",
+			"Softball",
+			"Wrestling",
+			"Weightlifting",
+			"Skateboarding"
+		]
+	},
 	"instruments": {
 		"name": "Instruments",
 		"words": [
@@ -62,7 +96,14 @@
 			"Flute",
 			"Clarinet",
 			"Trumpet",
-			"Kalimba"
+			"Kalimba",
+			"Glockenspiel",
+			"Gong",
+			"Handpan",
+			"Maraca",
+			"Marimba",
+			"Vibraphone",
+			"Bass"
 		]
 	},
 	"tech": {
@@ -114,6 +155,7 @@
 			"Java",
 			"CSS",
 			"HTML",
+			"Lua"
 			"GPS",
 			"QR Code"			
 		]
@@ -180,7 +222,16 @@
 			"The Last Of Us",
 			"Stardew Valley",
 			"BorderLands",
-			"Team Fortress"
+			"Team Fortress",
+			"Deltarune",
+			"God of War",
+			"Apex Legends",
+			"Rocket League",
+			"Final Fantasy",
+			"Lethal Company",
+			"Street Fighter",
+			"Spider-Man",
+			"Mortal Kombat"
 		]
 	},
 	"shapes": {
@@ -229,7 +280,17 @@
 			"Berlin wall",
 			"The Forbidden City",
 			"Mount Everest",
-			"Golden Gate Bridge"
+			"Golden Gate Bridge",
+			"Statue of Liberty",
+			"Stonehenge",
+			"The Grand Palace",
+			"Petra",
+			"Mount Fuji",
+			"Grand Canyon",
+			"Sydney Opera House",
+			"Niagra Falls",
+			"Central Park",
+			"Mount Rushmore"
 		]
 	},
 	"space": {
@@ -261,7 +322,13 @@
 			"Solar",
 			"Moon",
 			"Nebula",
-			"Meteor"
+			"Meteor",
+			"Astronomy",
+			"Solar System",
+			"Galaxy Cluster",
+			"Big Bang",
+			"Multiverse",
+			"Orbital"
 		]
 	},
 	"weather": {
@@ -414,7 +481,63 @@
 			"Dolphin",
 			"Tiger",
 			"Lion",
-			"Gorilla"
+			"Gorilla",
+			"Meerkat",
+			"Leopard",
+			"Bison",
+			"Deer",
+			"Beaver",
+			"Rhino",
+			"Caracal",
+			"Chipmunk",
+			"Coyote",
+			"Giraffe",
+			"Jaguar",
+			"Kangaroo",
+			"Moose",
+			"Ocelot",
+			"Orca",
+			"Armadillo",
+			"Pangolin",
+			"Platypus",
+			"Porcupine",
+			"Raccoon",
+			"Otter",
+			"Skunk",
+			"Sloth",
+			"Hyena",
+			"Walrus",
+			"Wolverine",
+			"Salamander",
+			"Frog",
+			"Axolotl"
+			"Snake"
+			"Anaconda",
+			"Rattlesnake",
+			"Chameleon",
+			"Tortoise",
+			"Gecko",
+			"Cobra",
+			"Komodo Dragon",
+			"Crocodile",
+			"Alligator",
+			"Jellyfish",
+			"Tarantula",
+			"Beetle",
+			"Cockroach",
+			"Worm",
+			"Ladybug",
+			"Butterfly",
+			"Octopus",
+			"Mantis",
+			"Scorpion",
+			"Termite",
+			"Goose",
+			"Eagle",
+			"Crow",
+			"Flamingo",
+			"Penguin",
+			"Duck"
 		]
 	},
 	"movies": {
