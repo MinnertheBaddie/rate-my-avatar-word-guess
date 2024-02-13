@@ -155,7 +155,7 @@
 			"Java",
 			"CSS",
 			"HTML",
-			"Lua"
+			"Lua",
 			"GPS",
 			"QR Code"			
 		]
@@ -379,7 +379,7 @@
 			"Janitor",
 			"Chemist",
 			"Dancer",
-			"Dentist"
+			"Dentist",
 			"Nurse",
 			"Diver",
 			"Doctor",
@@ -565,8 +565,8 @@
 			"Wolverine",
 			"Salamander",
 			"Frog",
-			"Axolotl"
-			"Snake"
+			"Axolotl",
+			"Snake",
 			"Anaconda",
 			"Rattlesnake",
 			"Chameleon",
